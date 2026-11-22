@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <img src="logo.png" alt="NCD Screening Automation Logo" width="110" style="border-radius: 20%;" />
 
@@ -83,7 +83,7 @@ Log in to your Facility, Sub-Center (HWC), or PHC account.
 ## 🇮🇳 Supported States & National MoHFW Portals
 
 Compatible across all Indian states and Union Territories using the National NCD Platform:
-- Uttar Pradesh, Bihar, Rajasthan, Madhya Pradesh, Maharashtra, Gujarat
+- Bihar, Rajasthan, Madhya Pradesh, Maharashtra, Gujarat
 - Haryana, Punjab, Himachal Pradesh, Uttarakhand, Jharkhand, Odisha
 - Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Kerala
 - West Bengal, Assam, North Eastern States, and Union Territories.
