@@ -13,8 +13,8 @@
   <a href="https://ncd.mohfw.gov.in/">
     <img src="https://img.shields.io/badge/Portal-MoHFW_NCD-0284c7?style=for-the-badge&logo=gov.uk&logoColor=white" alt="MoHFW Portal" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Version-v1.8.7-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Version 1.8.7" />
+  <a href="https://chromewebstore.google.com/detail/ncd-screening-automation/hikocnlpnnjopbmgadfcghnpkikamhdl">
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-v1.8.7-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" />
   </a>
 
   <br /><br />
@@ -23,7 +23,7 @@
 
   <br /><br />
 
-  <a href="https://chromewebstore.google.com/">
+  <a href="https://chromewebstore.google.com/detail/ncd-screening-automation/hikocnlpnnjopbmgadfcghnpkikamhdl">
     <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" height="20" valign="middle"/>
     <b>👉 Install Extension from Chrome Web Store</b>
   </a>
@@ -60,7 +60,7 @@ Entering hundreds of non-communicable disease (NCD) screening records, CBAC chec
 
 ### Step 1: Install the Extension
 Install the official extension from the Chrome Web Store:
-> **👉 [Install from Chrome Web Store](https://chromewebstore.google.com/)**
+> **👉 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/ncd-screening-automation/hikocnlpnnjopbmgadfcghnpkikamhdl)**
 
 ### Step 2: Download the Official Excel Template
 Download the pre-formatted Excel template designed specifically for the extension:
